@@ -1,6 +1,5 @@
 <?php
 
-
 	$dbname = "mineproject";
 	$host	= "localhost";
 	$user	= "root";
